@@ -25,9 +25,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pl">
-      <head>
-        <link rel="icon" href="/prostki.ico" />
-      </head>
       <body
         className={`bg-linear-to-r from-blue-900 to-emerald-900 ${geistSans.variable} ${geistMono.variable} antialiased`}
       >
